@@ -7,3 +7,11 @@ This project uses a daily data collection on **activities, sleep, weight*" data 
 The analysis and visualization of this project were performed using R
 
 ## Exploratory Data Analysis
+The purpose of this project is to Identify trends in how consumers use non-Bellabeat smart device the insights discovered will then help guide
+marketing strategy for the company which could help unlock new growth opportunities for the company.
+The questions asked of the data are:
+* What are some trends in smart device usage?
+* How could these trends apply to Bellabeat customers?
+* How could these trends help influence Bellabeat marketing strategy?
+
+The Exploratory Data Analysis and  Data Visualization that was created using R can be accessed [here]
