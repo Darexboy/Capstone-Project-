@@ -14,4 +14,4 @@ The questions asked of the data are:
 * How could these trends apply to Bellabeat customers?
 * How could these trends help influence Bellabeat marketing strategy?
 
-The Exploratory Data Analysis and  Data Visualization that was created using R can be accessed [here]
+The Exploratory Data Analysis and  Data Visualization that was created using R can be accessed [here](https://github.com/Darexboy/Capstone-Project-/blob/39a10b638bb71e6beb34d228a0efb4fd2d40fec5/Exploratory%20Analysis.pdf)
